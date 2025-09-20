@@ -59,3 +59,11 @@ I'm always open to feedback, collaboration, or just a friendly chat!
 ---
 
 > “Learning never exhausts the mind.” – Leonardo da Vinci
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Vishal-1904/DataEngineeringJourney/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
